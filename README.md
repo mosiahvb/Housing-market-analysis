@@ -9,7 +9,7 @@ The data I'm using provides information about various aspects of homes, includin
 
  As a young adult, I find delving into the housing market and planning for the future to be a daunting task. Through this software I believe it will greatly simplify the process of narrowing down home searches and establishing realistic expectations to start the home search experience. I chose this dataset to address three primary questions: first, what options are within a person's budget; second, what matches the person's preferences or needs, and third, what is the average home price in the dataset.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
+Link to a 5 minute YouTube demonstration.
 
 [Software data analysts demo](https://youtu.be/Fyu8iohho5o)
 
